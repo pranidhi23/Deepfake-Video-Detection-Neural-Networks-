@@ -1,5 +1,27 @@
 # Deepfake Detection of Manipulated Videos
 
+<img width="668" height="386" alt="image" src="https://github.com/user-attachments/assets/2fb18b15-e97c-4f4c-bbde-54322aadeac3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Project Overview
 This project focuses on detecting deepfake (manipulated) videos using deep learning techniques.
 A hybrid CNN-RNN model is implemented to capture both spatial and temporal features from video frames.
